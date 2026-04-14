@@ -13,11 +13,11 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShuvoSync&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=flat-square&color=00e5ff&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ShuvoSync?label=Followers&style=flat-square&color=00e5ff&labelColor=0d1117" alt="Followers" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=flat-square&color=9d4edd&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/ShuvoSync?label=Stars&style=flat-square&color=9d4edd&labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- Professional Status -->
@@ -42,7 +42,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/main/terminal.jpg" alt="Matrix Terminal Profile" width="100%">
+  <img src="https://raw.githubusercontent.com/ShuvoSync/ShuvoSync/main/terminal.jpg" alt="Matrix Terminal Profile" width="100%">
 </div>
 
 <!-- Tech Stack -->
@@ -62,8 +62,8 @@
   
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvoSync&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShuvoSync&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
 </div>
 <br>
 
@@ -74,7 +74,7 @@
   
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadshuvo33&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShuvoSync&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- Snake Animation -->
@@ -83,9 +83,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShuvoSync/ShuvoSync/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShuvoSync/ShuvoSync/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ShuvoSync/ShuvoSync/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -94,7 +94,7 @@
   
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahadshuvo33&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShuvoSync&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
 </p>
 
 <!-- Random Dev Quote -->
@@ -116,10 +116,10 @@
   <a href="https://t.me/fahadshuvo">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:fahadshuvo33@gmail.com">
+  <a href="mailto:ShuvoSync@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fahadshuvo33">
+  <a href="https://github.com/ShuvoSync">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
