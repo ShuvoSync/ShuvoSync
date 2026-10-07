@@ -24,11 +24,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/📍_Location-Chandpur,_Bangladesh-7b2cbf?style=flat-square&labelColor=0d1117" /></td>
+      <td><img src="https://img.shields.io/badge/📍_Location-Ajman,_United Arab Emirates-7b2cbf?style=flat-square&labelColor=0d1117" /></td>
       <td>&nbsp;&nbsp;</td>
       <td><img src="https://img.shields.io/badge/💼_Work-AI_Contributor_@_Outlier_AI-00b4d8?style=flat-square&labelColor=0d1117" /></td>
       <td>&nbsp;&nbsp;</td>
-      <td><img src="https://img.shields.io/badge/✅_Status-Available_for_Work-ff6f61?style=flat-square&labelColor=0d1117" /></td>
+      <td><img src="https://img.shields.io/badge/✅_Status-Available_for_new_Opportunities_in_Uae-ff6f61?style=flat-square&labelColor=0d1117" /></td>
     </tr>
   </table>
 </div>
